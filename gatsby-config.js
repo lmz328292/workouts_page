@@ -1,15 +1,15 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
-    siteTitle: 'Workouts Map',
-    siteUrl: 'https://ben29.xyz',
-    logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
+    siteTitle: 'Strava Map',
+    siteUrl: 'https://www.strava.com/athletes/112196593',
+    logo: 'https://avatars.githubusercontent.com/u/75031521?s=400&u=93aece39f1e929f55b38c8a877f50ef19243cfc2&v=4',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://ben29.xyz',
+        url: 'https://okjk.co/yAg1rf',
       },
       {
         name: 'About',
