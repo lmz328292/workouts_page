@@ -778,5 +778,20 @@
 "average_speed": 2.103,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8990202499,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 2158.0,
+"moving_time": "0:16:42",
+"type": "Run",
+"start_date": "2023-05-01 12:36:16+00:00",
+"start_date_local": "2023-05-01 20:36:16",
+"location_country": "\u82cf\u4ed9\u533a, \u90f4\u5dde\u5e02, \u6e56\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "{im|CeaiqT`@~MqDaKKCMOGDEGnHfI?KBGCIIIAI^DDD`@HBI",
+"average_heartrate": 164.1,
+"average_speed": 2.154,
+"source": "strava",
+"streak": 1
 }
 ]
