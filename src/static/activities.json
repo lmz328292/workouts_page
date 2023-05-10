@@ -823,5 +823,20 @@
 "average_speed": 1.068,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9038221640,
+"name": "\u5348\u540e\u8dd1\u6b65",
+"distance": 2166.0,
+"moving_time": "0:16:29",
+"type": "Run",
+"start_date": "2023-05-09 08:43:20+00:00",
+"start_date_local": "2023-05-09 16:43:20",
+"location_country": "\u6cbf\u6c5f\u8def, \u82cf\u4ed9\u533a, \u90f4\u5dde\u5e02, \u6e56\u5357\u7701, 423000, \u4e2d\u56fd",
+"summary_polyline": "gtn|Cm}|pT@Dn@NR?FBZ@\\HFCz@NRGRJHAT@TBFD`@APDT?HDd@D\\?THf@FV?^LHA`@F~@?JBTATBRAb@BJFFJH@FCJ@^AHF\\@TKH@FJHFPCHD\\MH@HHXIJET?J@RNHEb@E`@DFFX@LDTGRAZHHCjAKTDL?JFRDLTfA\\\\Pl@Dx@ZTRb@l@HBBPHBFFALDHJTDDL^^h@FN@Jp@xANb@FFJTFFHBVf@l@|@Xn@H@p@[NM\\Q@IEGGGIAIGGIIUECK_@U_@Mg@]e@We@MOIUGG_@eAKSMKGUSc@?KMSIe@KU[KW[SKCM[OMQGAGG]AGGWEIEOMI?IEQDKEI@k@U[KQIIIQ?]Om@EICI?IBc@?]KIDS?WIW?s@y@E[OMQ[",
+"average_heartrate": 169.5,
+"average_speed": 2.19,
+"source": "strava",
+"streak": 1
 }
 ]
